@@ -93,3 +93,5 @@ Don't forget that testing data points represent real-world data. Feature normali
 Therefore, you should perform feature normalisation over the training data. Then perform normalisation on testing instances as well, but this time using the mean and variance of training explanatory variables. In this way, we can test and evaluate whether our model can generalize well to new, unseen data points.
   </li><li>
   Also we realized it's a good approach to plot predicted variable's distribution over actual to visually analyze the result of our model</li></ul>
+
+### <a href="https://www.kaggle.com/sehgalsakshi/notebookb2ce508d0c"> Head over to my Kaggle Notebook for problem statement, dataset and "My Notebook" (basically everything :P)</a>
